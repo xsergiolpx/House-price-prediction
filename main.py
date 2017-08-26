@@ -1,5 +1,5 @@
 import xgboost as xgb
-from lib1763191 import *
+from libfun import *
 import sys
 
 
